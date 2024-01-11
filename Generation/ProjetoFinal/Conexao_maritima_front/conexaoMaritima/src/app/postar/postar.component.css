@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;600;700&display=swap');
+
+html {
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;  
+    
+}
+
+.nome{
+    list-style: none;
+}
+
+.usuario{
+    border-radius: 50%;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.card-body{
+    border-radius: 10px;
+}
+
+.fundo{
+    background-color: #FFEEAD;
+} 
+
+.container-fluid{
+    margin-top: 30px;
+}
+
+
+#main-banner {
+    padding: 0;
+    background-size: cover;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+#main-banner-content {
+    max-width: 100%;
+    height: auto;
+    
+    margin-top: 300px;
+   
+}
+
+.card-text{
+    margin-top: 20px;
+}
+
+.corfundo{
+    background: #7CCEBA;
+}
+
+.corbotao{
+    background: #FF8E8B;
+}
+
+.btn{
+    font-size: 25px;
+    background-color: #FF8E8B;
+}

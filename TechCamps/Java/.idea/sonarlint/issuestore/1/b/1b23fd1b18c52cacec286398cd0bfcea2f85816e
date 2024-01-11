@@ -1,0 +1,11 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(›Ω‰ƒϊÿÿÿÿ8ω±³’0
+X
+java:S1854";Remove this useless assignment to local variable "jornal1".(³’ÿ8ϋ±³’0
+I
+java:S1481",Remove this unused "jornal1" local variable.(³’ÿ8ύ±³’0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(έΓ—8ύ±³’0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ΐγίο8ώ±³’0
+C
+java:S1128"&Remove this unused import 'java.util'.(Ξ€Ω8ώ±³’0

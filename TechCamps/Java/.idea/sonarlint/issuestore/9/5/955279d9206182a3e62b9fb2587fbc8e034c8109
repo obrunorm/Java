@@ -1,0 +1,8 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ö‡òÿÿÿÿÿ8ãò­µ‘0
+]	java:S125"<This block of commented-out lines of code should be removed.(„Ü›üÿÿÿÿ8–ó­µ‘0
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ …Ó8 ó­µ‘0
+•
+java:S1319"sThe return type of this method should be an interface such as "SortedMap" rather than the implementation "TreeMap".(ÿÀ…¡ûÿÿÿÿ8¡ó­µ‘0

@@ -1,0 +1,9 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éê»´úÿÿÿÿ8´î€¬™0
+j	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°»ÿ‚8µî€¬™0
+o	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êƒÜáûÿÿÿÿ8·î€¬™0
+j	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¬àž8¸î€¬™0
+Y
+java:S1128"<Remove this unused import 'org.junit.jupiter.api.BeforeAll'.(—¦¹î8®É£¬™0
+M
+java:S5960"+Remove this assertion from production code.(ÒêÚüÿÿÿÿ8ºî€¬™0

@@ -1,0 +1,21 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+í
+b0x07/api-rest-calculator/src/main/java/com/example/calculator/controller/CalculatorController.java,c/6/c6df7a9153dfc01ce002c31e09a026ade5b2327a
+G
+0x08/ProductAPI/pom.xml,9/2/9216c6a6a2d88bcd7fc2bfadbd4beacce6bcdea9
+É
+S0x07/api-rest-calculator/src/main/java/com/example/calculator/model/Calculator.java,7/b/7bc1e5bfb95454989fa458f3edd1376ee7e7381f
+ñ
+f0x07/api-rest-calculator/src/test/java/com/example/calculator/controller/CalculatorControllerTest.java,9/9/997c8b2941b35b986d6abe531735a0d92f2ab5b1
+á
+W0x07/api-rest-calculator/src/test/java/com/example/calculator/model/CalculatorTest.java,4/4/44dd902cbf7012e7c875424fab7224cf5bbc5fea
+P
+ 0x07/api-rest-calculator/pom.xml,6/b/6b16fcb47bf31ce8f28bc049d83197d6b00a2965
+r
+B0x07/api-rest-calculator/src/main/resources/application.properties,a/d/ada4920451b534004349c8900e2660b08e372614
+ã
+[0x07/api-rest-calculator/src/main/java/com/example/calculator/CalculatorApiApplication.java,2/d/2d7456f4bb8055108daa943382443e0ada9f3b9e
+ê
+`0x07/api-rest-calculator/src/test/java/com/example/calculator/CalculatorApiApplicationTests.java,e/8/e86ee4cb6e20c6dc119cb796641a8b96ba8b39b4

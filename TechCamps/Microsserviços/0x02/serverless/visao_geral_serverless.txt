@@ -1,0 +1,17 @@
+O que é Arquitetura Serverless?
+Arquitetura Serverless, ou “computação sem servidores”, é uma arquitetura de computação orientada a eventos. Sua principal proposta é permitir que as empresas de software criem e mantenham seus aplicativos web sem se preocupar com a infraestrutura em que esses aplicativos estão rodando
+
+O que é Function as a service (FaaS) ?
+O Function as a Service (FaaS) é um tipo de serviço de computação em nuvem sem servidor que permite aos usuários desenvolver, executar e gerenciar a funcionalidade de um aplicativo sem precisar provisionar e gerenciar os recursos de computação subjacentes. Sem ter que gerenciar servidores e pagando apenas pelo que você precisa, você tem tempo e recursos para se concentrar em seus negócios e no próprio aplicativo, em vez da infraestrutura que o suporta.
+
+Quais são os benefícios de usar arquitetura Serverless ?
+Gerenciamento operacional simplificado, Rápida inovação, Custo operacional reduzido, Diminuição dos riscos de ameaças diretas à infraestrutura, Integração dos diferentes setores da empresa.
+
+O que é Cloud Computing (Computação em Nuvem) ? E quais são seu benefícios ?
+Cloud computing ― ou computação em nuvem ― é um dos recursos que o avanço da tecnologia nos proporcionou. Ele permite que os usuários armazenem e acessem sistemas e ferramentas, pela internet, sem a obrigação de salvar dados em um computador. Normalmente, utiliza um servidor remoto.
+Alguns beneficios são: Mais segurança, Mais espaço de armazenamento, Melhor organização de arquivos, Redução de custos, Facilidade de acesso e praticidade.
+
+Quais são as principais diferenças entre Arquitetura Monolítica, Microsserviços e Serverless ?
+As arquiteturas de microsserviços e a monolítica são completamente antagônicas. Enquanto a primeira foi pensada para garantir que o software tenha baixo acoplamento e alta coesão – o que significa que cada componente é autocontido, realizando tarefas específicas, dependendo o mínimo de outros componentes para funcionar –, a segunda é justamente o inverso.
+Serverless é um modelo de desenvolvimento nativo em nuvem para criação e execução de aplicações sem o gerenciamento de servidores.
+

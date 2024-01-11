@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
+
+html{
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;    
+}
+
+.pt-10{
+    padding-top: 5%;
+}
+.pb-top{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.wavetop{
+    background: #FFEEAD;
+    margin-top: -110px;
+
+}
+
+.corfundo{
+    background: #FFEEAD;
+}
+
+.corfundo2{
+    background: #FFEEAD;
+}
+
+
+
+.corfundo{
+    display: flex;
+    justify-content: center;
+    background-color: #FFEEAD;
+}
+
+.texto{
+    margin-top: 30px;
+    font-size: 30px;
+    text-align:justify; 
+    font-weight: 400;  
+}
+
+.tamanho{
+    font-size: 60px;
+}

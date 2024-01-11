@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="product (1)" />
+        <module name="product" />
+        <module name="jpa-h2-demo (1)" />
+        <module name="demo (1)" />
+        <module name="demo (1) (com.techCamps)" />
+        <module name="demo (2) (com.song)" />
+        <module name="demo" />
+        <module name="user" />
+        <module name="jpa-h2-demo" />
+        <module name="user (1)" />
+        <module name="demo2" />
+        <module name="demo (1) (com.song)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="17" />
+      <module name="demo (1)" target="11" />
+      <module name="demo (1) (com.song)" target="17" />
+      <module name="demo (1) (com.techCamps)" target="11" />
+      <module name="demo (2) (com.song)" target="17" />
+      <module name="demo2" target="11" />
+      <module name="jpa-h2-demo" target="11" />
+      <module name="jpa-h2-demo (1)" target="11" />
+      <module name="product" target="11" />
+      <module name="product (1)" target="11" />
+      <module name="user" target="17" />
+      <module name="user (1)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="demo (1)" options="-parameters" />
+      <module name="demo (1) (com.song)" options="-parameters" />
+      <module name="demo (1) (com.techCamps)" options="-parameters" />
+      <module name="demo (2) (com.song)" options="-parameters" />
+      <module name="demo2" options="-parameters" />
+      <module name="jpa-h2-demo" options="-parameters" />
+      <module name="jpa-h2-demo (1)" options="-parameters" />
+      <module name="product" options="-parameters" />
+      <module name="product (1)" options="-parameters" />
+      <module name="user" options="-parameters" />
+      <module name="user (1)" options="-parameters" />
+    </option>
+  </component>
+</project>

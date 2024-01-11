@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('https://th.bing.com/th/id/R.fd7bd6bda8cce4310de7917b723c2df6?rik=yoQ9XP1omYWKFA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-xLufZ7L14Q0%2fTw5Uc_yI56I%2fAAAAAAAADA8%2fdslMA57lr-s%2fs1600%2fwallpapers-carros-importados-papeis-de-parede%2b%2525281%252529.jpg&ehk=%2bfKRpmTdc5V0kBTM59aTtj6RcoXb0oZnmWmsUzUd8fM%3d&risl=&pid=ImgRaw&r=0');
+
+    min-height: 100vh;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

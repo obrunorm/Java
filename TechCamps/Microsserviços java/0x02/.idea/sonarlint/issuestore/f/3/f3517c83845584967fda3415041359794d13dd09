@@ -1,0 +1,11 @@
+
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(¢Ñüÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ˆóí
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†÷¸Âıÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(™à©Ú
+W
+java:S4973!"<Strings and Boxed types should be compared using "equals()".(óÄàÿıÿÿÿÿ

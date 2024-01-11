@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BancodeDados.iml" filepath="$PROJECT_DIR$/BancodeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_jpa_hibernate_mapeamento/gestao-cursos-api/gestao-cursos-api.iml" filepath="$PROJECT_DIR$/java_jpa_hibernate_mapeamento/gestao-cursos-api/gestao-cursos-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_jpa_hibernate_mapeamento/java_jpa_hibernate_mapeamento.iml" filepath="$PROJECT_DIR$/java_jpa_hibernate_mapeamento/java_jpa_hibernate_mapeamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa_hibernate/jpa_hibernate.iml" filepath="$PROJECT_DIR$/jpa_hibernate/jpa_hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_jpa_hibernate_mapeamento/gestao-cursos-api/src/main/main.iml" filepath="$PROJECT_DIR$/java_jpa_hibernate_mapeamento/gestao-cursos-api/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_jpa_hibernate_mapeamento/gestao-cursos-api/src/src.iml" filepath="$PROJECT_DIR$/java_jpa_hibernate_mapeamento/gestao-cursos-api/src/src.iml" />
+    </modules>
+  </component>
+</project>

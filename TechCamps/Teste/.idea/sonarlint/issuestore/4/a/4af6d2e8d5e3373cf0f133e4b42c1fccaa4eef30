@@ -1,0 +1,22 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Û§ˆîşÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­å ¹
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(ˆŒ¶°ùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã½Ş®üÿÿÿÿ
+W
+java:S2209"5Change this instance-reference to a static reference.(ÙÛõ‰øÿÿÿÿ8â ô™0
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(ˆŒ¶°ùÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°†»Ô
+W
+java:S2209 "5Change this instance-reference to a static reference.(ÙÛõ‰øÿÿÿÿ8ã ô™0
+\
+java:S1126""AReplace this if-then-else statement by a single return statement.(ˆŒ¶°ùÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ˆŒ¶°ùÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ˆŒ¶°ùÿÿÿÿ
+W
+java:S4973""<Strings and Boxed types should be compared using "equals()".(ˆŒ¶°ùÿÿÿÿ

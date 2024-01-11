@@ -1,0 +1,9 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "comida1".(€»Þ×
+B
+java:S1481",Remove this unused "comida1" local variable.(€»Þ×
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„›±ˆýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãœÉÈýÿÿÿÿ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "feijao" 3 times.(Èè——

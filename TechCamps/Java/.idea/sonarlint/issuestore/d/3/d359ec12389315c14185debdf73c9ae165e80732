@@ -1,0 +1,11 @@
+
+X
+java:S1854	";Remove this useless assignment to local variable "tauriel".(›óŠ 8‡¥Í®0
+I
+java:S1481	",Remove this unused "tauriel" local variable.(›óŠ 8‰¥Í®0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘¶–ì8Š¥Í®0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(È–ù£8‹¥Í®0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(‡Ùñìşÿÿÿÿ8Œ¥Í®0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(‡Ùñìşÿÿÿÿ8¥Í®0
+?
+java:S1128""Remove this unused import 'humor'.(ºòØ©8¥Í®0

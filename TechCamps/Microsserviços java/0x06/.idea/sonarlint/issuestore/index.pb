@@ -1,0 +1,19 @@
+
+O
+api-rest-userController/pom.xml,e/6/e636234d96ee0adc728613ae6d42bce021296ac6
+q
+Aapi-rest-userController/src/main/resources/application.properties,d/c/dc25ac7b2601bd9e5dc39381ba22808d358411df
+†
+Vapi-rest-userController/src/main/java/com/example/user/exception/ExceptionService.java,4/6/4653de683ca79c512a1b5527db046b84781fad41
+‚
+Rapi-rest-userController/src/main/java/com/example/user/exception/CPFException.java,2/9/290b79ac3c396434a66a2874cda4bff45d5a61c7
+†
+Vapi-rest-userController/src/main/java/com/example/user/controller/UserApplication.java,6/6/66f57ed77fcb332dc9cb29683bada81b7f4a8302
+…
+Uapi-rest-userController/src/main/java/com/example/user/controller/UserController.java,1/6/160c6ae162b174a45ee4eb16d7903bd78500bf5a
+‡
+Wapi-rest-userController/src/main/java/com/example/user/exception/UserErrorResponse.java,8/c/8cedfbb5549191a50ab271d2617e444878ee355b
+…
+Uapi-rest-userController/src/main/java/com/example/user/exception/UserIdException.java,4/0/4029e0a293900064c59fd7a6ed1bafd4e2d570cb
+‡
+Wapi-rest-userController/src/main/java/com/example/user/exception/UserNameException.java,c/6/c6c0ab2502b63b9a776a6815947d029501295770

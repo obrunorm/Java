@@ -1,0 +1,14 @@
+
+H
+java:S1452"&Remove usage of generic wildcard type.(û¸Ôªüÿÿÿÿ8ò¢à¦0
+Q	java:S1259"<This block of commented-out lines of code should be removed.(å€°
+k
+java:S1128"IRemove this unused import 'com.ciandt.summit.bootcamp2022.entity.Musica'.(ğ¨íÿÿÿÿÿ8ƒ½ÙúÀ0
+]
+java:S1128";Remove this unused import 'lombok.RequiredArgsConstructor'.(ÑØúøÿÿÿÿ8ƒ½ÙúÀ0
+a
+java:S1128"?Remove this unused import 'org.springframework.http.MediaType'.(úŸİ¯şÿÿÿÿ8„½ÙúÀ0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8„½ÙúÀ0
+t
+java:S1128"RRemove this unused import 'org.hibernate.tool.schema.SchemaToolingLogging.LOGGER'.(ä«¯ûüÿÿÿÿ8„½ÙúÀ0

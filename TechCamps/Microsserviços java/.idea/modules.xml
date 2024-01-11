@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Microsserviços java.iml" filepath="$PROJECT_DIR$/.idea/Microsserviços java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x01/spring_boot_1/demo/demo.iml" filepath="$PROJECT_DIR$/0x01/spring_boot_1/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x05/MegaSenaAPI/demo (1).iml" filepath="$PROJECT_DIR$/0x05/MegaSenaAPI/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x02/construindo_API_REST/com/song/demo/demo (1) (com.song).iml" filepath="$PROJECT_DIR$/0x02/construindo_API_REST/com/song/demo/demo (1) (com.song).iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x03/criando_spring_boot_JPA/demo (1) (com.techCamps).iml" filepath="$PROJECT_DIR$/0x03/criando_spring_boot_JPA/demo (1) (com.techCamps).iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x02/construindo_API_REST/demo/demo (2) (com.song).iml" filepath="$PROJECT_DIR$/0x02/construindo_API_REST/demo/demo (2) (com.song).iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x01/spring_boot_2/demo2.iml" filepath="$PROJECT_DIR$/0x01/spring_boot_2/demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x04/JPA+H2_database/jpa-h2-demo.iml" filepath="$PROJECT_DIR$/0x04/JPA+H2_database/jpa-h2-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x04/JPA+H2_database1/jpa-h2-demo/jpa-h2-demo (1).iml" filepath="$PROJECT_DIR$/0x04/JPA+H2_database1/jpa-h2-demo/jpa-h2-demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x08/out/production/0x08/product/product.iml" filepath="$PROJECT_DIR$/0x08/out/production/0x08/product/product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x08/ProductAPI/product (1).iml" filepath="$PROJECT_DIR$/0x08/ProductAPI/product (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x06/user/user.iml" filepath="$PROJECT_DIR$/0x06/user/user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0x06/api-rest-userController/user (1).iml" filepath="$PROJECT_DIR$/0x06/api-rest-userController/user (1).iml" />
+    </modules>
+  </component>
+</project>

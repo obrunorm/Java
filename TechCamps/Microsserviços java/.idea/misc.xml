@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/0x01/spring_boot_1/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/0x01/spring_boot_2/pom.xml" />
+        <option value="$PROJECT_DIR$/0x02/construindo_API_REST/com/song/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/0x02/construindo_API_REST/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/0x03/criando_spring_boot_JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/0x04/JPA+H2_database/pom.xml" />
+        <option value="$PROJECT_DIR$/0x04/JPA+H2_database1/jpa-h2-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/0x05/MegaSenaAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/0x06/user/pom.xml" />
+        <option value="$PROJECT_DIR$/0x06/api-rest-userController/pom.xml" />
+        <option value="$PROJECT_DIR$/0x08/out/production/0x08/product/pom.xml" />
+        <option value="$PROJECT_DIR$/0x08/ProductAPI/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

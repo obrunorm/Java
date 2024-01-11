@@ -1,0 +1,47 @@
+ @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;600;700&display=swap');
+
+html{
+    font-family: 'Rubik', sans-serif;
+}
+.menu-cor{
+    background: #FF8E8B;
+    font-weight: 400;
+}
+
+ .pb-10{
+    margin-bottom: 10pt;
+} 
+.fa-search{
+    font-size: 15pt;
+}
+
+
+.fa-search:hover{
+    color: white;
+}
+
+.fonte-cor{
+    font-size: 12pt;
+    color:#7CCEBA;
+}
+
+.item-form{
+    margin-left: 10px;
+}
+
+.item-form a:hover{
+    color: white;
+} 
+
+.logo{
+    height: 40px;
+    padding-right: 50px;
+} 
+
+.padUsuario{
+    padding-right: 90px;
+}
+
+.corpreto{
+    color: black;
+}

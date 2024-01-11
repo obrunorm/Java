@@ -1,0 +1,9 @@
+
+S
+java:S5261"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ8ƒïÓĞ‘0
+v
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùş»±8„ïÓĞ‘0
+Š
+java:S1319"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(ÖÛ‰ü8…ïÓĞ‘0
+
+java:S1319""mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(æ¬¨Ôøÿÿÿÿ8…ïÓĞ‘0

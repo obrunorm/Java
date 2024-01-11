@@ -1,0 +1,15 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¨”Õ¿8íöƒ‘™0
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÌüú
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(ˆŒ¶°ùÿÿÿÿ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ñ×Z
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(ˆŒ¶°ùÿÿÿÿ
+h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¾Á‡ÿÿÿÿÿ
+\
+java:S1126'"AReplace this if-then-else statement by a single return statement.(ˆŒ¶°ùÿÿÿÿ
+c	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝÍ×²
+\
+java:S11264"AReplace this if-then-else statement by a single return statement.(ˆŒ¶°ùÿÿÿÿ
