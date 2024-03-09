@@ -10,7 +10,7 @@ public static void main(String[] args) {
 		
 		int idade,idade1, idade2, anos, meses, dias, totaldedias;
 		
-		System.out.println("Quantos anos você tem?: ");
+		System.out.println("Quantos anos vocï¿½ tem?: ");
 		idade = entrada.nextInt();
 		
 		System.out.println("Quantos meses?: ");
@@ -24,7 +24,7 @@ public static void main(String[] args) {
 		dias= idade2 + 0;
 		totaldedias = anos + meses + dias;
 		
-		System.out.println("A soma de a com b é igual: " + totaldedias);
+		System.out.println("A soma de a com b Ã© igual: " + totaldedias);
 		
 		entrada.close();
 
